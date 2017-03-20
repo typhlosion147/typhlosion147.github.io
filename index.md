@@ -1,5 +1,11 @@
 # **Welcome to The Shadowsynth Blog**
 
+# **Links **
+[Blog](https://b.bakunet.me)
+[Music Remakes](https://b.bakunet.me/music.html)
+[About Me](https://b.bakunet.me/about.html)
+
+
 # **3-17-2017**
 Alright, so I will be using this as a blog for my English Class,  so here it is.
 
