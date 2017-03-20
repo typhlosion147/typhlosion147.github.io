@@ -1,5 +1,5 @@
 # **Welcome to The Shadowsynth Blog**
-
+# **------------------------------------------------------------------------------------------------------------------------**
 # **Links**
 [Blog](https://b.bakunet.me)
 [Music Remakes](https://b.bakunet.me/music.html)
