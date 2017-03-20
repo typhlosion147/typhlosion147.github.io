@@ -23,4 +23,4 @@ So, a few of my projects that I've been working on have been things like doing r
  
  ![GitHub Logo](https://this.bakunet.me/website/sucks/DESKTOP-Win10_-_Chrome_Remote_Desktop_1E7C406C.png)
 
-  Example song: [Click here](http://b3.bakunet.me/music/legendary_trio.mp3)
+  Example song: [Click here](https://b3.bakunet.me/music/legendary_trio.mp3)
