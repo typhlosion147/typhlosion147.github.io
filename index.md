@@ -1,10 +1,10 @@
 # **Welcome to The Shadowsynth Blog**
 # **------------------------------------------------------------------------------------------------------------------------**
 # **Links**
-[Blog](https://b.bakunet.me)
-[Music Remakes](https://b.bakunet.me/music.html)
-[Images](https://b.bakunet.me/images.html)
-[About Me](https://b.bakunet.me/about.html)
+[Blog](https://bakunet.me)
+[Music Remakes](https://bakunet.me/music.html)
+[Images](https://bakunet.me/images.html)
+[About Me](https://bakunet.me/about.html)
 # **------------------------------------------------------------------------------------------------------------------------**
 
 # **3-20-2017**
