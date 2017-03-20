@@ -4,6 +4,7 @@
 [Images](https://b.bakunet.me/images.html)
 [About Me](https://b.bakunet.me/about.html)
 
+# **------------------------------------------------------------------------------------------------------------------------**
 
 # **Image Page**
 These are all the things that I feel like sharing that are images.
