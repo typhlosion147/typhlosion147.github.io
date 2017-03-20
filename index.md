@@ -10,6 +10,7 @@
 
 Alright, so I have revamped the look and style of the blog. I would have kept the original subdomain in use, but github was not letting me do this.
 
+# **------------------------------------------------------------------------------------------------------------------------**
 
 # **3-17-2017**
 Alright, so I will be using this as a blog for my English Class,  so here it is.
