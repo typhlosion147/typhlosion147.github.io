@@ -1,6 +1,6 @@
 # **Welcome to The Shadowsynth Blog**
 
-# **Links **
+# **Links**
 [Blog](https://b.bakunet.me)
 [Music Remakes](https://b.bakunet.me/music.html)
 [About Me](https://b.bakunet.me/about.html)
