@@ -1,6 +1,6 @@
 # **Welcome to The Shadowsynth Blog**
 
-# **3-20-2017**
+# **3-17-2017**
 Alright, so I will be using this as a blog for my English Class,  so here it is.
 
 
