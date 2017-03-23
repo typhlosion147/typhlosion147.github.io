@@ -8,4 +8,4 @@
 
 # **My Music Remakes**
 
-You can view the music remakes that I upload [here](https://b3.bakunet.me/music)
+You can view the music remakes that I upload [here](https://this.bakunet.me/music)
