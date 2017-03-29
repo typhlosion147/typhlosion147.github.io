@@ -1,9 +1,10 @@
 # **Links**
+# **Links**
 [Blog](https://bakunet.me)
 [Music Remakes](https://bakunet.me/music.html)
 [Images](https://bakunet.me/images.html)
 [About Me](https://bakunet.me/about.html)
-
+[Rules of the Internet (Extended)](https://bakunet.me/internet.html)
 # **------------------------------------------------------------------------------------------------------------------------**
 
 ### **About me**
