@@ -21,7 +21,7 @@ I remake music from Pokemon games, work with VPSes, manage/own a few game server
 
 ### **More Information**
 
-Also gay furry trash
+N/A
 
 # **------------------------------------------------------------------------------------------------------------------------**
 
