@@ -1,5 +1,4 @@
 # **Links**
-# **Links**
 [Blog](https://bakunet.me)
 [Music Remakes](https://bakunet.me/music.html)
 [Images](https://bakunet.me/images.html)
