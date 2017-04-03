@@ -6,6 +6,19 @@
 [Images](https://bakunet.me/images.html)
 [About Me](https://bakunet.me/about.html)
 [Rules of the Internet (Extended)](https://bakunet.me/internet.html)
+[Email Info](https://bakunet.me/email_info.html)
+# **------------------------------------------------------------------------------------------------------------------------**
+
+# **4-3-2017**
+
+Lately, my main project that I have been working on is buying a few cheap domains, acquiring some pretty funky email addresses, and setting up my own email server that I share with others.
+
+With the emails that I have obtained, I've managed to get the following: admin@bakunet.me admin@shadowsynth.xyz admin@did-i.win and thisisthe@national.shitposting.society
+
+If you have any requests for email addresses, simply send an email [here](mailto:chosensoundmusic147@gmail.com)
+
+
+
 # **------------------------------------------------------------------------------------------------------------------------**
 
 # **3-20-2017**
