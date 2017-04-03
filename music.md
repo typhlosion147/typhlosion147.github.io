@@ -4,6 +4,7 @@
 [Images](https://bakunet.me/images.html)
 [About Me](https://bakunet.me/about.html)
 [Rules of the Internet (Extended)](https://bakunet.me/internet.html)
+[Email Info](https://bakunet.me/email_info.html)
 
 # **------------------------------------------------------------------------------------------------------------------------**
 
