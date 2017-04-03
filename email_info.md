@@ -17,7 +17,7 @@ If you are interested in an email, please email [me](mailto:chosensoundmusic147@
 
 # **To change your password**
 
-Go to https://shadowsynth.xyz:5273 and select "Change Password" from the home button at the top.
+Go to [https://shadowsynth.xyz:5273](https://shadowsynth.xyz:5273) and select "Change Password" from the home button at the top.
 
 # **------------------------------------------------------------------------------------------------------------------------**
 
