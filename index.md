@@ -13,6 +13,7 @@
 # **4-10-2017**
 
 Over the weekend, the project that I had set up was creating a private World of Warcraft server. The setup steps involved first compliling the server using a c++ compiler called Microsoft Visual Studio, extracting the map files from the original game, and then the setup of the server's databases. If you want to join, all you need to do is download the client that I have preconfigured from [https://this.bakunet.me/wowstuff/WoWWOTLK.zip](https://this.bakunet.me/wowstuff/WoWWOTLK.zip)
+
 All you will need to do is run the "wow.exe" file within the folder!
 
 # **------------------------------------------------------------------------------------------------------------------------**
