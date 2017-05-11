@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/skunksmasher
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bakunet.me
+  * I am skunksmasher (https://keybase.io/skunksmasher) on keybase.
+  * I have a public key with fingerprint E8C3 AED7 4522 9FF1 5004  11FB 8D7F 4B12 5CFE BFE6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200963eada02f23cd82c37ff9660ab27bd3c52bbc32ae7dab55b935eedd74629c20a",
+            "fingerprint": "e8c3aed745229ff1500411fb8d7f4b125cfebfe6",
+            "host": "keybase.io",
+            "key_id": "8d7f4b125cfebfe6",
+            "kid": "01010acf94a9a08f2aed5f750b9c856a5fcff4099430c8cc6494c47372836f67d80a0a",
+            "uid": "f4b3344f8fea6a152ec5512a7d982f19",
+            "username": "skunksmasher"
+        },
+        "service": {
+            "hostname": "bakunet.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494520720,
+    "expire_in": 157680000,
+    "prev": "cd9402415ac0bbf1c2fc591dd5389416107f4779f8f0e6a38dff5105b65c6481",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMNzAnicbZJ9TFZVHMcfBDMQBxEtR0V2K0QH7N5z359e5oCQjBFuwnSjPZ177zlw
+A54Lz/PwDkOjAkMNKhTFaAG+ICYRCweS+DwQgdriJYWRoIyXDXLiRMZ4CboP0/86
+54+zc87n9z3f72+nc4urwcPlaMEHPvGr7VMuN+wn0w0HfL8pzSUkTckmjLlEElpf
+ULKCrDZTkqoQRoKkAEmKHI2gAkmAAS0rApBpHmOR40goAV5SaJkFkiTTACJegRLL
+SiLNIqQoPMMBUQYkJIIIrJoTkCXVopptuiwSZBoiHWABEDGmWJJkKApLgsJjRqIA
+K2MkYcTphYma1Vmhm5OgFYWomn6mb0zr9v6Hf+pbn1DGIgNFSApY96awmGdJSZQF
+loMsljFmSFFkaFIWZJljREZmeJoHAs1hjlcEEq77Tl+X0x+haYbBAkaQgxQLkMyy
+FIC8IgoAU6ITtCKLGaYgnbYmpZuTrCnQmogsRH4Qod9kqDJyNteZ5gklQR1DthB9
+E0SkWjSbJmvJ+nmizZZqNTrrbNmpTjATSaYnEiZJNSt6J/WKDGSxqpqZMFI6KdtU
+pyalp2AByQMyiEBZqaoFmVQnwfKcQOrD+Q7K0CVlRWRIwFAslElJwpQMsMyKlKKw
+tCAyFEeRel95XtQDk4iDtKBgzFIkK3Gs3iqBIpyh0swaYRR0mzDBGVpNMENbugUR
++Q57vJvBxcPwzMYNzh9m8HD3fvrvMh54G9on54SG/rzgEb/vepuONHaudffMoNVb
+j7LiJyx+uSFuJ66P9MFtW0dCBvPm3zo7t3dH+GYp8P3p+N5tK1mLY2ePvrvi4l4Y
+dGXqYUfNi0PM1MNit1/uaBE146eHc6r8XpLbysWpccOhpgGpXum+pOy4P+tXuRhw
+bQHcU/3bojc3grRkc2Hm+cu9UutfC8Nd/uENGXsqjzhuVc29AFwf7w7rrr8JI+eP
+x+xfKkSLR//+d7Qs9P5XB5sjufCJmlj7bebngfbdo0a3Fkd8wRcoP9A+f+DLoeUr
+LnWWthyt8vzYgm92Toc57FwtvRZ7OtFx52pAzGv2i79DH61k5/ZOzzcPBm9/b2i0
+w4f+vNot1m/XMp6ri/Ovl1rGf0wxN1haXM+kLaWn01z21R/6UNk/daWPumod03eD
+z0R7Vd/U9pz6pK46w3jcermxKLDMXjQXXfHyhmFqyfLnH5P2Eq9Xm77ujjr84MS3
+7l2O1seeO98p7n8u0nhp+G5XaNT0R6OhmzZ9H7wrM9O79NlWwH94ozms6PkJ/Flt
+7fX5Eu+4vuIiU/jahamQiMMRceWkb9q+norViwWrQ819016T5TGjaiaYeXvgty1j
+gxVVTD/xRujJjR/PvD69t+/QCg5YQNfCfp0a+TQ5sqfn3PLsoIwuTO47FZs323os
+/6etCa/sL07SUm/f8xSYqP8AFVPYSw==
+=2igZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skunksmasher
+
+==================================================================
