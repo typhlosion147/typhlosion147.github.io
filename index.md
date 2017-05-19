@@ -12,7 +12,7 @@
 
 # **5-18-2017**
 
-As of lately, I've had a few projects that I have been working on, but the current project I've been doing, is essentially that I have been playing around with a new server that is being borrowed from my dad's office. It is a large Dell Poweredge R820 and honestly has more power than what I will ever need (or so I've been told). With that said, I have found a way to use up pretty much all of said power, by using it to run virtual machines. The reason the virtual machines are about to use up so much power, is that a virtual machine makes use of physical resources in order to run virtual computers.
+As of lately, I've had a few projects that I have been working on, but the current project I've been doing, is essentially that I have been playing around with a new server that is being borrowed from my dad's office. It is a large Dell PowerEdge R820 and honestly has more power than what I will ever need (or so I've been told). With that said, I have found a way to use up pretty much all of said power, by using it to run virtual machines. The reason the virtual machines are about to use up so much power, is that a virtual machine makes use of physical resources in order to run virtual computers.
 
 # **------------------------------------------------------------------------------------------------------------------------**
 
