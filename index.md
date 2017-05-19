@@ -10,6 +10,12 @@
 
 # **------------------------------------------------------------------------------------------------------------------------**
 
+# **5-18-2017**
+
+As of lately, I've had a few projects that I have been working on, but the current project I've been doing, is essentially that I have been playing around with a new server that is being borrowed from my dad's office. It is a large Dell Poweredge R820 and honestly has more power than what I will ever need (or so I've been told). With that said, I have found a way to use up pretty much all of said power, by using it to run virtual machines. The reason the virtual machines are about to use up so much power, is that a virtual machine makes use of physical resources in order to run virtual computers.
+
+# **------------------------------------------------------------------------------------------------------------------------**
+
 # **4-10-2017**
 
 Over the weekend, the project that I had set up was creating a private World of Warcraft server. The setup steps involved first compliling the server using a c++ compiler called Microsoft Visual Studio, extracting the map files from the original game, and then the setup of the server's databases. If you want to join, all you need to do is download the client that I have preconfigured from [https://this.bakunet.me/wowstuff/WoWWOTLK.zip](https://this.bakunet.me/wowstuff/WoWWOTLK.zip)
