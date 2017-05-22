@@ -1,3 +1,6 @@
+# **Welcome to the homepage of Kyle's website portfolio thing for his English class
+# **------------------------------------------------------------------------------------------------------------------------**
+# **Links**
 [Cover Letter](https://bakunet.me)
 [Blog](https://bakunet.me/blog.html)
 [Music Remakes](https://bakunet.me/music.html)
@@ -5,3 +8,5 @@
 [About Me](https://bakunet.me/about.html)
 [Rules of the Internet (Extended)](https://bakunet.me/internet.html)
 [Email Info](https://bakunet.me/email_info.html)
+
+# **------------------------------------------------------------------------------------------------------------------------**
