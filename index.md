@@ -1,4 +1,4 @@
-# **Welcome to the homepage of Kyle's website portfolio thing for his English class
+# **Welcome to the homepage of Kyle's website portfolio thing for his English class**
 # **------------------------------------------------------------------------------------------------------------------------**
 # **Links**
 [Cover Letter](https://bakunet.me)
